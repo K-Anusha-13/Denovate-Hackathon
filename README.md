@@ -1,6 +1,6 @@
 #  Smart Doc Checker – AI-Powered Document Verification Tool
 
- **Deployed App:** 
+ **Live Application:** https://smartdocchecker.streamlit.app
 
 ## Overview
 
@@ -14,7 +14,7 @@ The application provides a **user-friendly web interface using Streamlit**, allo
 
 ---
 
-# 🎯 Problem Statement
+#  Problem Statement
 
 Organizations often maintain multiple documents such as **policies, guidelines, and notices**.
 Over time these documents may become inconsistent or contradictory.
@@ -172,7 +172,7 @@ cd smart-doc-checker
 
 ---
 
-# ▶ Running the Application
+#  Running the Application
 
 Start the Streamlit application:
 
@@ -184,7 +184,7 @@ The application will launch in your browser.
 
 ---
 
-# 📊 Example Workflow
+#  Example Workflow
 
 1. Upload **2–3 documents (PDF or TXT)**
 2. The system extracts text and identifies important rules
@@ -195,7 +195,7 @@ The application will launch in your browser.
 
 ---
 
-# 📑 Example Output
+#  Example Output
 
 Example conflict:
 
@@ -212,7 +212,7 @@ Align attendance requirements across documents to avoid policy conflicts.
 
 ---
 
-# 🔮 Future Improvements
+#  Future Improvements
 
 * Support **Word (.docx) documents**
 * Real-time document monitoring
@@ -221,10 +221,7 @@ Align attendance requirements across documents to avoid policy conflicts.
 * Cloud deployment and API integration
 
 ---
+##  Developed For
 
-# 👩‍💻 Author
-
-**Anusha K**
-
-AI / Machine Learning Enthusiast
-
+Hackathon Submission – Denovate(Miscrosoft Hyderabad)
+---
